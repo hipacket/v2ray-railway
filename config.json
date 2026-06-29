@@ -1,5 +1,8 @@
 {
-  "log": { "loglevel": "warning" },
+  "log": { 
+    "loglevel": "error",
+    "access": "none"
+  },
   "inbounds": [{
     "port": 8080,
     "listen": "0.0.0.0",
