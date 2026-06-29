@@ -4,7 +4,8 @@
     "protocol": "vless",
     "settings": {
       "clients": [{
-        "id": "970a8328-15ec-46ca-8de4-649eac11274b"
+        "id": "970a8328-15ec-46ca-8de4-649eac11274b",
+        "decryption": "none"
       }]
     },
     "streamSettings": {
