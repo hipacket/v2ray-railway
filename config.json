@@ -29,7 +29,7 @@
       "settings": {
         "accounts": [
           {
-            "user": "admin",
+            "user": "SECRET_USER_PLACEHOLDER",
             "pass": "SECRET_PASSWORD_PLACEHOLDER"
           }
         ]
